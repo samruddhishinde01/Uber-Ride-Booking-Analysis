@@ -167,10 +167,8 @@ The dashboard contains two pages:
 Interactive slicers are also provided for filtering the dashboard.
 
 ## Dashboard Preview
-![Uber Booking Overview]
-(uber_dashboard.png)
-![Uber cancellation & customer insights]
-(uber2_dashboard.png)
+![Uber Booking Overview](uber_dashboard.png)
+![Uber cancellation & customer insights](uber2_dashboard.png)
 
 ## Key Insights
 
