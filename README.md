@@ -166,7 +166,11 @@ The dashboard contains two pages:
 
 Interactive slicers are also provided for filtering the dashboard.
 
----
+## Dashboard Preview
+![Uber Booking Overview]
+(uber_dashboard.png)
+![Uber cancellation & customer insights]
+(uber2_dashboard.png)
 
 ## Key Insights
 
@@ -200,3 +204,5 @@ The project can be further improved by:
 This project demonstrates how Excel, SQL, Python, and Power BI can be used together to transform raw ride booking data into meaningful business insights.
 
 The analysis can help businesses understand booking trends, customer behavior, cancellations, revenue, and operational performance.
+
+
